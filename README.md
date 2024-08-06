@@ -3,10 +3,10 @@
 https://t.me/golang_vietnam_learning
 
 ## Group Java
-https://t.me/+GAB8Qd3hEM0xZTQ1
+https://t.me/javavietnam_learning
 
 ## Group NodeJs
-https://t.me/+fOAo5yY7CTIxMjI1
+https://t.me/nodejs_vietnam_learning
 
 ## Group Review Phỏng vấn
 https://t.me/+7Q4mCjGLykc1ZTk1
@@ -18,7 +18,7 @@ https://t.me/+ST0unit9nTRkYjhl
 https://t.me/+8tl1Bc9pIm1kMzll
 
 ## Group React
-https://t.me/+q1gJr7082_MxZTU1
+https://t.me/reactjs_learning
 
 ## Group Rust
 https://t.me/rust_vietnam
